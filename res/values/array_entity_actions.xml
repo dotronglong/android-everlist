@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entity_actions">
+        <item>Show Properties</item>
+        <item>Edit Entity</item>
+        <item>Delete Entity</item>
+    </string-array>
+    
+</resources>

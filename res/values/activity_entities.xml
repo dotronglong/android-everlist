@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_entities_confirm_delete_entity">Are you sure to delete this entity?</string>
+    <string name="activity_entities_confirm_delete_item">Are you sure to delete this item?</string>
+    <string name="activity_entities_entity_properties_title">Manage Entity\'s Properties</string>
+    <string name="activity_entities_entity_lacking_information">Name and Title must be filled</string>
+    <string name="activity_entity_property_add_name">Property\'s Name</string>
+    <string name="activity_entity_property_add_type_prompt">Property\'s Type</string>
+    <string name="activity_entities_entity_property_add_title">Add new property</string>
+    
+    <!-- Entity Properties' Types -->
+    <string name="entity_property_type_int">Integer</string>
+    <string name="entity_property_type_double">Double</string>
+    <string name="entity_property_type_string">String</string>
+    <string name="entity_property_type_money">Money</string>
+    <string name="entity_property_type_photo">Photo</string>
+    <string name="entity_property_type_select">Select</string>
+    <string name="entity_property_type_float">Float</string>
+</resources>

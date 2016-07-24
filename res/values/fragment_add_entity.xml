@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fragment_add_entity_label_title">Title</string>
+    <string name="fragment_add_entity_button_submit_text">Submit</string>
+    <string name="fragment_add_entity_adding_completed">An entity has been added successfully</string>
+    
+</resources>
